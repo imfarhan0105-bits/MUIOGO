@@ -1,6 +1,6 @@
-# MUIOGO 
+# MUIOGO
 
-<img src="assets/UN_Crest.png" width="75" align="left"> 
+<img src="assets/UN_Crest.png" width="75" align="left">
 
 **M**odelling **U**ser **I**nterface for **OG**-Core and **O**SeMOSYS
 
@@ -14,7 +14,7 @@ The project will create a standardized interface and shared execution system lin
 
 See the [Project Background & Vision](https://github.com/EAPD-DRB/MUIOGO/wiki/Project-Background-and-Vision)
 
-MUIOGO is the integration project to bring the purely pyton-based OG-Core model into MUIO, the GUI for OSeMOSYS (CLEWS).
+MUIOGO is the integration project to bring the purely Python-based OG-Core model into MUIO, the GUI for OSeMOSYS (CLEWS).
 
 At the moment, this repository starts from a direct copy baseline of MUIO. The
 goal of MUIOGO is to evolve that baseline into an integrated OG–CLEWS model that is maintainable and
@@ -24,12 +24,12 @@ If you are new to this repo, start with the current installation notes below.
 
 ## Resources
 
-Beyond the purely technical aspects, it is important to get a basic understanding of what both these models do:
+Beyond the purely technical aspects, it is important to get a basic understanding of what both models do:
 - MUIO: https://muio-modelling-user-interface-for-osemosys.readthedocs.io/
 - CLEWS/OSeMOSYS: https://osemosys.readthedocs.io/
 - OG-Core: https://pslmodels.github.io/OG-Core/content/theory/intro.html
 
-Free on-line trainings are available here:
+Free online trainings are available here:
 - CLEWS: https://capacity.desa.un.org/article/introduction-clews
 - OG-Core: https://capacity.desa.un.org/article/mastering-og-core-model-theory-technical-applications-and-policy-use-cases
 
@@ -45,9 +45,9 @@ MUIO is currently distributed primarily as a Windows desktop installer.
 4. Wait for installation to complete.
 5. Open the app from the Start Menu if it does not open automatically.
 
-### MacOS
+### macOS
 
-Use [MUIO-Mac](https://github.com/SeaCelo/MUIO-Mac) as the current macOS-capable path:
+Use [MUIO-Mac](https://github.com/SeaCelo/MUIO-Mac) as the current macOS-capable path.
 
 ### Platform-independence goal
 
@@ -75,7 +75,7 @@ Issue and PR templates:
 - `.github/ISSUE_TEMPLATE/`
 - `.github/pull_request_template.md`
 
-:exclamation:Contribution rule:
+Contribution rule:
 
 - Create (or use) an issue first.
 - Implement in a feature branch (for example:
@@ -96,7 +96,7 @@ MUIOGO **cannot** depend on it for delivery decisions.
 
 ## Wiki
 
-The wiki is used only for now for high-level background context:
+The wiki is currently used only for high-level background context:
 
 - [Project Background and Vision](https://github.com/EAPD-DRB/MUIOGO/wiki/Project-Background-and-Vision)
 
