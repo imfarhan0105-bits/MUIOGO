@@ -1,11 +1,10 @@
 # MUIOGO 
 
-<img src="assets/UN_Crest.png" width="50" align="left"> 
+<img src="assets/UN_Crest.png" width="75" align="left"> 
 
-**M**odelling **U**ser **I**nterface for **OG**-Core and **O**SeMOSYS.
+**M**odelling **U**ser **I**nterface for **OG**-Core and **O**SeMOSYS
 
-</br>
- The United Nations Department of Economic and Social Affairs (DESA) has applied open-source modelling tools during the last decade in more than 20 countries —particularly in Small Island Developing States, Land-Locked Countries, and Least Developed Countries— to support policies related to Nationally Determined Contributions (NDCs), climate adaptation, social protection, and fiscal sustainability:
+The United Nations Department of Economic and Social Affairs (DESA) has applied open-source modelling tools during the last decade in more than 20 countries —particularly in Small Island Developing States, Land-Locked Countries, and Least Developed Countries— to support policies related to Nationally Determined Contributions (NDCs), climate adaptation, social protection, and fiscal sustainability:
 - CLEWS, built on OSeMOSYS, analyzes interactions and trade-offs across land, energy, and water systems under climate scenarios.
 - OG-Core is a dynamic overlapping-generations macroeconomic model that evaluates long-term fiscal, demographic, and economic policies.
 
