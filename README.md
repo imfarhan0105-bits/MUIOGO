@@ -25,6 +25,7 @@ If you are new to this repo, start with the current installation notes below.
 ## Resources
 
 Beyond the purely technical aspects, it is important to get a basic understanding of what both these models do:
+- MUIO: https://muio-modelling-user-interface-for-osemosys.readthedocs.io/
 - CLEWS/OSeMOSYS: https://osemosys.readthedocs.io/
 - OG-Core: https://pslmodels.github.io/OG-Core/content/theory/intro.html
 
